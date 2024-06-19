@@ -1,0 +1,23 @@
+.t{
+    width: 70px;
+}
+h3{
+    text-align: center;
+}
+p{
+    font-size: 17px;
+}
+footer{
+    background-color:#d7da27;
+    color: white;
+}
+a{
+    text-decoration: none;
+    background-color: #4F3556;
+    color: white;
+    padding: 5px;
+    text-align: center;
+}
+footer p{
+    text-align: center;
+}
